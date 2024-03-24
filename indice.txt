@@ -1,6 +1,6 @@
-ECHO est  activado.
-Capítulo 1: Introducción a Git
-Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Gestión de ramas
-Capítulo 4: Repositorios remotos
-
+ECHO estÂ  activado.
+CapÃ­tulo 1: IntroducciÃ³n a Git
+CapÃ­tulo 2: Flujo de trabajo bÃ¡sico
+CapÃ­tulo 3: GestiÃ³n de ramas
+CapÃ­tulo 4: Repositorios remotos
+Capitulo 5: probar commit
